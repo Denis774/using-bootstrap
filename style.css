@@ -1,0 +1,50 @@
+
+#header {
+	background-color: #66CCFF;
+	color: white;
+	text-align: center;
+	padding: 10px;
+}body {
+	background-color: white;
+	font-family: verdana, Arial, sans-serif;
+}
+h4 {
+    color: black;
+    }
+
+h1 {
+    color: blue;
+   align-content:center;
+    }
+p {
+	color: black;
+}
+$font-size-base: 0.2rem;
+#main {
+	 background-color:lightgray;
+	 color:black;
+	 padding:20px;
+}
+#nav h4 {
+      color: blue;
+      text-align: left;
+}
+#nav1 h4 {
+      color: blue;
+
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  background-color: auto;
+  color: black;
+  text-align: center;
+  padding: 1px;
+}
+#footer {
+	clear: both;
+	padding: 10px;
+	background-color: #999999;
+	color: lightgray;
+	text-align: center;
+}
